@@ -1,2 +1,5 @@
-# MAG_COVID19
-Quick script for pulling papers relating to Coronavirus from the Microsoft Academic Graph
+# COVID19 Explorations
+
+Various exploratory analyses on Scholarly Communications relating to the COVID-19 virus and pandemic.
+
+
