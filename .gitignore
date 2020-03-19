@@ -3,3 +3,8 @@ venv*
 .vs*
 data*
 output/SAGE*
+output/d2v*
+output/S2*
+output/Related*
+models
+Model_bench*
