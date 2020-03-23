@@ -13,6 +13,9 @@ We've found a few keywords relating to the COVID-19 outbreak. Research publisher
 ## Text modelling
 This is aimed at using text data to explore literature relating to COVID-19 and other pandemics. 
 
+### Installation note
+You might need some scispacy models which are available here: https://pypi.org/project/scispacy/
+
 
 ### Note
 I'm aiming to work quite quickly as I progress through these notebooks, so there won't always be proper testing, or documentation. Any problems, just ask and I'll try and make an update.

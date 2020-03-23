@@ -1,10 +1,22 @@
-venv*
+
+## SYSTEM etc
+venv
+covid_venv
 .ipynb_checkpoints
 .vs*
+
+## DATA
 data*
 output/SAGE*
 output/d2v*
 output/S2*
 output/Related*
+output/main*
 models
+dois*
+
+## CODE
 Model_bench*
+
+*clustering*
+BERT*
