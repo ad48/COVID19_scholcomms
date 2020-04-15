@@ -12,11 +12,28 @@ output/d2v*
 output/S2*
 output/Related*
 output/main*
+output/lda*
+output/*.html
 models
 dois*
+*xlsx
+*.csv
+*.npy
+*.mm
+*.zip
 
 ## CODE
-Model_bench*
-
+experiments
 *clustering*
 BERT*
+to_*
+*06*
+*d2v*
+*07*
+output/keyword_list.xlsx
+output/dev_plt.png
+output/keyword_list.xlsx
+output/test_plt.png
+output/train_plt.png
+output/keyword_list.xlsx
+__pycache__/tools.cpython-37.pyc
