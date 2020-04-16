@@ -14,7 +14,7 @@ if __name__ =='__main__':
     train =pd.read_csv('data/train.csv', dtype=str)
     test = pd.read_csv('data/test.csv', dtype=str)
     dev = pd.read_csv('data/dev.csv', dtype=str)
-    all_ = pd.read_csv('data/all_s2_pubmed.csv', dtype=str)
+    all_ = pd.read_csv('data/all.csv', dtype=str)
     print(datetime.datetime.now(),' -------------- Dataframes loaded')
 
     dataframes = {  
