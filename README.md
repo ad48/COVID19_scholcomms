@@ -1,3 +1,5 @@
+**PLEASE NOTE: This projec tis now Archived and no longer supported**
+
 # COVID19 Explorations
 
 Various exploratory analyses on Scholarly Communications relating to the COVID-19 virus and pandemic.
